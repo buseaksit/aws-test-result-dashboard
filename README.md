@@ -242,5 +242,5 @@ This project is built with CI/CD in mind:
 ## 👩‍💻 Author
 
 **Buse Aksit**  
-Software Development Engineer in Test
-GitHub: https://github.com/buseaksit
+- Software Development Engineer in Test
+- GitHub: https://github.com/buseaksit
