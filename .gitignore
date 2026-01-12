@@ -1,0 +1,19 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Builds
+dist/
+build/
+out/
+
+# CDK
+cdk.out/
+
+# Env
+.env
+.env.*
+.DS_Store
+
+# IDE
+.vscode/
